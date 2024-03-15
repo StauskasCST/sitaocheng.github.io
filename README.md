@@ -1,2 +1,2 @@
-# stauskascst.github.io
-Homepage of Sitao Cheng 
+# sitaocheng.github.io
+Homepage of Sitao Cheng (https://sitaocheng.github.io/)
